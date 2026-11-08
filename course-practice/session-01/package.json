@@ -1,0 +1,15 @@
+{
+  "name": "open-shed-course-session-01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.7.1",
+  "engines": {
+    "node": "22.14.0",
+    "pnpm": "10.7.1"
+  },
+  "scripts": {
+    "check:setup": "node scripts/check-setup.mjs",
+    "test": "node --test tests/recommend-card.test.mjs"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/NiyiOke/open-shed-card-engine",
+  "commit": "f20a5c15bfb2b1aa943f61f8b17bcbd27f185c40",
+  "releaseInSource": "1.6.3",
+  "reviewedOn": "2026-09-28",
+  "node": "22.14.0",
+  "starterPnpm": "10.7.1",
+  "copiedGameImplementation": false,
+  "data": "invented practice scenarios only",
+  "upstreamPathsReviewed": [
+    "README.md",
+    "package.json",
+    ".nvmrc",
+    "CONTRIBUTING.md",
+    "lib/game/types.ts",
+    "lib/game/projection.ts",
+    "lib/game/engine.ts",
+    "tests/game-engine.test.ts",
+    "LICENSE",
+    "ASSETS.md"
+  ]
+}
